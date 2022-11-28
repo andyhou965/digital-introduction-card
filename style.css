@@ -153,3 +153,22 @@ body {
 	color: #45f3ff;
 	line-height: 1.2em;
 }
+
+.card .content .details h2 span {
+	font-size: 0.75em;
+	font-weight: 500;
+	color: #fff;
+}
+
+.card .content .details .data {
+	display: flex;
+	justify-content: space-between;
+	margin: 20px 0;
+}
+
+.card .content .details .data h3 {
+	font-size: 1em;
+	color: #45f3ff;
+	line-height: 1.2em;
+	font-weight: 600;
+}
